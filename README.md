@@ -6,6 +6,7 @@
 <hr>
 
 ## Topologi
+![image](https://github.com/user-attachments/assets/c959cdb4-3e00-4c80-8cb2-3297fb248e11)
 
 ## Konfigurasi Awal
 ### Paradis
